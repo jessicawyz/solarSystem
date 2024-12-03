@@ -1,4 +1,5 @@
 # Solar System Simulation with WebGL and Three.js
+![image](https://github.com/user-attachments/assets/3abda30c-e738-4729-aeea-f954d41ca395)
 
 ## Overview
 This program is a WebGL-based solar system simulation built using Three.js. It features:
